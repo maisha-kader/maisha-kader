@@ -90,15 +90,16 @@ I'm interested in software development, problem-solving and creating things that
 
 Beyond the code, I am someone who loves exploring the world, discovering new places and experiencing different cultures. I also enjoy stepping outside my comfort zone, learning from new experiences and capturing little moments through photography.
 
-
-
+<p align="center">
+  <sub><i>All photographs on this profile are my original work - shot and edited by me! Please ask before reusing :)</i></sub>
+</p>
 
 ---
 <!-- Footer-->
 <p align="center">
-  <samp>━━━━━━━━━━━━ LET'S CONNECT ━━━━━━━━━━━━</samp>
+  <samp>━━━━━━━━ LET'S CONNECT ━━━━━━━━</samp>
   <br/><br/>
-  <a href="https://github.com/mk61124">GITHUB</a>
+  <a href="https://github.com/maisha-kader">GITHUB</a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/maisha-kader">LINKEDIN</a>
 </p>
